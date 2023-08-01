@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Embedded Software<br>👯 I’m looking for a job as an embedded software developer<br>🌱 I’m currently learning C++<br>💬 Ask me about my repos<br>⚡ Request CV
+🔭 I’m currently working on Embedded Software<br>👯 I’m looking for a job as an embedded software developer<br>🌱 I’m currently learning C++<br>💬 Ask me about my repos<br>⚡ <a href="https://mustafaergul.net/">Request CV</a>
 
 
 ## 🌐 Socials:
